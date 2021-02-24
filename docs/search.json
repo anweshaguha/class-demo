@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "This blog is cool.",
+      "author": [],
+      "contents": "\nLook at me!\n\n\n\n",
+      "last_modified": "2021-02-24T10:42:54-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Musings",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-24T10:42:54-08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

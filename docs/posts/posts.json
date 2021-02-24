@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2021-02-24-some-stuff-with-models/",
+    "title": "Some stuff with models",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Anwesha Guha",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-24",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n\n\n\n",
+    "preview": "posts/2021-02-24-some-stuff-with-models/some-stuff-with-models_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2021-02-24T10:41:02-08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Musings",
+    "description": "Welcome to our new blog, Musings. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Anwesha Guha",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-24",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-24T10:30:38-08:00",
+    "input_file": {}
+  }
+]
